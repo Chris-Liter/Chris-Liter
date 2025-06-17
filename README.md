@@ -39,4 +39,7 @@ Worked on real-world projects with:
 - `Flutter`, `Kotlin`, `Java`, `.NET MAUI`
 - Native C++ libraries for OpenCV image processing
 - Manual pixel manipulation and convolution filters in C++
-- Integration of `TensorFlow Lite` C++ API for object detection (MobileNetV3, YOLOv8)
+- Integration of `TensorFlow Lite` C++ API for object detection (MobileNetV3, YOLOv11)
+
+
+Software development is my forte and I love programming on my laptop, and when it comes to teamwork, I really enjoy it.
