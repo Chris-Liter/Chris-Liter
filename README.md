@@ -20,7 +20,7 @@
   <img src="https://cdn.prod.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" alt="Flutter" height="150"/>
   <img src="https://cdn-images-1.medium.com/max/480/1*jA64NTovT-efZ96tcq-X5g.png" alt="Kotlin" height="150"/>
   <img src="https://www.muylinux.com/wp-content/uploads/2022/03/java.png" alt="Java" height="150"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" height="150"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGakkUEbXyfann4M16v9CV-sTa915cUOdh9g&s" alt="Angular" height="150"/>
 </p>
 
 <!--### Proyects
