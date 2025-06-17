@@ -1,4 +1,4 @@
-## Hi👋, I'm Jorge Lituma
+## I'm Jorge Lituma
 
 ### Computer Science Engineering
 
@@ -26,4 +26,12 @@
 <!--### Proyects
 - [Mobile Development with native libs C++]()
 - [Alzheimer's Detection Model with published Article]()-->
+
+
 ### I'm passionate about Mobile Development, from Ecuador, with experience in proyects using `Flutter`, `Kotlin/Java`, `.NET MAUI`, and native development, creating native libraries in C++ for pixel manipulation with OpenCV, creating low-level filters with C++, implementing the TensorflowLite C++ API for Object Detection with `MobileNetV3` and more.
+
+Worked on real-world projects with:
+- `Flutter`, `Kotlin`, `Java`, `.NET MAUI`
+- Native C++ libraries for OpenCV image processing
+- Manual pixel manipulation and convolution filters in C++
+- Integration of `TensorFlow Lite` C++ API for object detection (MobileNetV3, YOLOv8)
