@@ -17,10 +17,10 @@
 
 ### 🎨 Frontend: Flutter, Kotlin, Java, .NET MAUI  
 <p> 
-  <img src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png" alt="Flutter" height="150"/>
+  <img src="https://cdn.prod.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" alt="Flutter" height="150"/>
   <img src="https://cdn-images-1.medium.com/max/480/1*jA64NTovT-efZ96tcq-X5g.png" alt="Kotlin" height="150"/>
   <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" alt="Java" height="150"/>
-  <img src="[[[https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://saigontechnology.com/wp-content/uploads/image6_2.webp)](https://saigontechnology.com/wp-content/uploads/image6_2.webp)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png)" alt="Angular" height="150"/>
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Angular" height="150"/>
 </p>
 
 <!--### Proyects
