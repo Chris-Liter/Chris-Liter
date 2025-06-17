@@ -9,11 +9,10 @@
 #### Technologies
 ### 🧠 Backend: Java, .NET C#, Python Flask  
 <p> 
-  <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" alt="Java" height="32"/>
-  <img src="https://geekstorming.wordpress.com/wp-content/uploads/2019/12/7e49c-1mfohvi5b1xzkytxiaky7pq.png" alt=".NET" height="32"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="32"/>
-  <img src="https://images.ctfassets.net/em6l9zw4tzag/oVfiswjNH7DuCb7qGEBPK/b391db3a1d0d3290b96ce7f6aacb32b0/python.png" alt="Python" height="32"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="32"/>
+  <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" alt="Java" height="50"/>
+  <img src="https://geekstorming.wordpress.com/wp-content/uploads/2019/12/7e49c-1mfohvi5b1xzkytxiaky7pq.png" alt=".NET" height="50"/>
+  <img src="https://images.ctfassets.net/em6l9zw4tzag/oVfiswjNH7DuCb7qGEBPK/b391db3a1d0d3290b96ce7f6aacb32b0/python.png" alt="Python" height="50"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="50"/>
 </p>
 
 ### 🎨 Frontend: Flutter, Kotlin, Java, .NET MAUI  
