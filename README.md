@@ -43,3 +43,24 @@ Worked on real-world projects with:
 
 
 Software development is my forte and I love programming on my laptop, and when it comes to teamwork, I really enjoy it.
+
+### 📑 Articles and Repositories on Research
+I have experience on research involving Artificial Intelligence, Software Development, Computer Vision and more.
+
+* First article, titled "Alzheimer Diagnosis through Advanced Deep Learning Architectures and Interpretative Analysis of Predictions" where find the Development of deep learning models for early Alzheimer detection with a strong focus on prediction explainability and medical decision support.
+
+This article was written in Springer Format, for the future publish on the Book `Proceedings of Tenth International Congress on Information and Communication Technology` from ICICT 2025, London.
+
+Repository https://github.com/Chris-Liter/ServicioWeb-para-Modelo-Alzheimer with the Source code, and with process of training model.
+
+* Second article, titled "A Pilot Initiative for Democratizing Artificial Intelligence Access in Public Education: Computer Recycling and Deep Learning Networks in Cuenca, Ecuador", very important such as a pilot project aimed at providing AI access through refurbished computers running deep learning models, promoting inclusive technological education in public schools.
+
+This article was written in Springer Format, for the future publish on the Book `Communication and Applied Technologies` from ICOMTA'25, Chile.
+
+Repository https://github.com/Chris-Liter/API-With-IA with the Source code, that contains the models trained using YOLOv11n implemented in the Flask API
+
+* Thrid article, titled "Robertiño: A Low-Cost Robot for Executing Large Language Models and Convolutional Networks to Enhance Early Education in Underserved Communities", design and implementation of an educational robotic system integrating YOLO-based object detection and LLMs to support learning in marginalized regions.
+
+This article was written in Springer Format, for the future publish on the Book `Communication and Applied Technologies` from ICOMTA'25, Chile.
+
+Repository https://github.com/xDieGGox/Robbyapp, that contains the source code, about the mobile application, created with Kotlin and Java.
