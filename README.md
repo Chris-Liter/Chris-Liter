@@ -1,6 +1,6 @@
 ## I'm Jorge Lituma
 
-### Computer Science Engineering
+### Computer Science Engineer
 
 ### Experience
 - Experience with Software Development *Backend and Frontend*, microservices, Cloud Computing.
