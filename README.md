@@ -52,7 +52,7 @@ I have experience on research involving Artificial Intelligence, Software Develo
 This article was written in Springer Format, for the future publish on the Book `Proceedings of Tenth International Congress on Information and Communication Technology` from ICICT 2025, London.
 
 Repository https://github.com/Chris-Liter/ServicioWeb-para-Modelo-Alzheimer with the Source code, and with process of training model.
-Link of article: `Available upon publication`.
+Link of article: `[Available upon publication](https://link.springer.com/chapter/10.1007/978-981-96-6438-2_45)`.
 
 * Second article, titled "A Pilot Initiative for Democratizing Artificial Intelligence Access in Public Education: Computer Recycling and Deep Learning Networks in Cuenca, Ecuador", very important such as a pilot project aimed at providing AI access through refurbished computers running deep learning models, promoting inclusive technological education in public schools.
 
