@@ -16,7 +16,7 @@
 <p> 
   <img src="https://www.muylinux.com/wp-content/uploads/2022/03/java.png" alt="Java" height="150"/>
   <img src="https://geekstorming.wordpress.com/wp-content/uploads/2019/12/7e49c-1mfohvi5b1xzkytxiaky7pq.png" alt=".NET" height="150"/>
-  <img src="https://es.wikipedia.org/wiki/Historia_de_Python" alt="Python" height="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png" alt="Python" height="150"/>
 <!--   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="150"/> -->
 </p>
 
