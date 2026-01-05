@@ -59,11 +59,11 @@ Link of article: https://link.springer.com/chapter/10.1007/978-981-96-6438-2_45.
 This article was written in Springer Format, for the future publish on the Book `Communication and Applied Technologies` from ICOMTA'25, Chile.
 
 Repository https://github.com/Chris-Liter/API-With-IA with the Source code, that contains the models trained using YOLOv11n implemented in the Flask API.
-Link of article: `Available upon publication`.
+Link of article: https://link.springer.com/chapter/10.1007/978-3-032-09911-2_18.
 
 * Thrid article, titled "Robertiño: A Low-Cost Robot for Executing Large Language Models and Convolutional Networks to Enhance Early Education in Underserved Communities", design and implementation of an educational robotic system integrating YOLO-based object detection and LLMs to support learning in marginalized regions.
 
 This article was written in Springer Format, for the future publish on the Book `Communication and Applied Technologies` from ICOMTA'25, Chile.
 
 Repository https://github.com/xDieGGox/Robbyapp, that contains the source code, about the mobile application, created with Kotlin and Java.
-Link of article: `Available upon publication`.
+Link of article: https://link.springer.com/chapter/10.1007/978-3-032-09911-2_5.
