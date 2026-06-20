@@ -7,10 +7,6 @@
 - Artificial Intelligence development for some areas, such as Medicine, Education, Research, and much more in *Deep Learning* for Computer Vision, Image Enhancement for research, and training of classification and detection models.
 - The use of C++ or C for low level is for exclusive use for greater speed, used in my experience, both for backend and frontend
 
-  <div align="center">
-  <img src="https://cipsa.net/wp-content/uploads/01-img-logo-c-cipsa-barcelona-bilbao.png" alt="C++" height="250"/>
-</div>
-
 #### Technologies
 ### 🧠 Backend: Java, .NET C#, Python Flask or Django 
 <p> 
