@@ -18,9 +18,10 @@
 
 ### 🎨 Data analysis, machine learning and computer vision
 <p> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1280px-Tensorflow_logo.svg.png" alt="TensorFlow" height="170" style="margin-left: 40px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/250px-OpenCV_logo_black.svg.png" alt="OpenCV" height="200" style="margin-left: 40px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1280px-Tensorflow_logo.svg.png" alt="TensorFlow" height="170" style="margin-right: 40px;"/>
   <img src="https://www.laescueladelsql.com/wordpress/wp-content/uploads/2018/09/cloudb.png" height="180" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/250px-OpenCV_logo_black.svg.png" alt="OpenCV" height="200" style="margin-right: 40px;"/>
+
 </p>
 
 <!--### Proyects
@@ -28,7 +29,7 @@
 - [Alzheimer's Detection Model with published Article]()-->
 
 
-### I'm passionate about Mobile Development, from Ecuador, with experience in proyects using `Flutter`, `Kotlin/Java`, `.NET MAUI`, and native development, creating native libraries in C++ for pixel manipulation with OpenCV, creating low-level filters with C++, implementing the TensorflowLite C++ API for Object Detection with `MobileNetV3` and more.
+### I'm passionate about Software development, from Ecuador, with experience in proyects using `Flutter`, `Kotlin/Java`, `.NET MAUI`, and native development, creating native libraries in C++ for pixel manipulation with OpenCV, creating low-level filters with C++, implementing the TensorflowLite C++ API for Object Detection with `MobileNetV3` and more.
 
 Worked on real-world projects with:
 - `Flutter`, `Kotlin`, `Java`, `.NET MAUI`
@@ -40,7 +41,7 @@ Worked on real-world projects with:
 Software development is my forte and I love programming on my laptop, and when it comes to teamwork, I really enjoy it.
 
 ### 📑 Articles and Repositories on Research
-I have experience on research involving Artificial Intelligence, Software Development, Computer Vision and more.
+I have experience on research involving Artificial Intelligence, Software Development, Data analysis and Computer Vision.
 
 * First article, titled "Alzheimer Diagnosis through Advanced Deep Learning Architectures and Interpretative Analysis of Predictions" where find the Development of deep learning models for early Alzheimer detection with a strong focus on prediction explainability and medical decision support.
 
@@ -62,3 +63,4 @@ This article was written in Springer Format, for the future publish on the Book 
 
 Repository https://github.com/xDieGGox/Robbyapp, that contains the source code, about the mobile application, created with Kotlin and Java.
 Link of article: https://link.springer.com/chapter/10.1007/978-3-032-09911-2_5.
+
