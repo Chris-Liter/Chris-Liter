@@ -38,8 +38,7 @@ Worked on real-world projects with:
 - Integration of `TensorFlow Lite` C++ API for object detection (MobileNetV3, YOLOv11)
 - Python and SQL
 
-
-Software development is my forte and I love programming on my laptop, and when it comes to teamwork, I really enjoy it.
+More information in my web site: https://my-portafolio-ec.web.app/
 
 ### 📑 Articles and Repositories on Research
 I have experience on research involving Artificial Intelligence, Software Development, Data analysis and Computer Vision.
