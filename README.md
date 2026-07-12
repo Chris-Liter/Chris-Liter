@@ -1,4 +1,4 @@
-<img width="250" height="331" alt="image" src="https://github.com/user-attachments/assets/189a4c0f-b947-4c6b-8515-d4ed1f1085ae" />## I'm Jorge Lituma
+## I'm Jorge Lituma
 
 ### Computer Science Engineer
 
@@ -19,7 +19,8 @@
 ### 🎨 Data analysis, machine learning and computer vision
 <p> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1280px-Tensorflow_logo.svg.png" alt="TensorFlow" height="150"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/250px-OpenCV_logo_black.svg.png" alt="OpenCV" height="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/250px-OpenCV_logo_black.svg.png" alt="OpenCV" height="250"/>
+  <img src="https://www.laescueladelsql.com/wordpress/wp-content/uploads/2018/09/cloudb.png" height="150" />
 </p>
 
 <!--### Proyects
