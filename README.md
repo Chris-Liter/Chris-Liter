@@ -16,10 +16,10 @@
 <!--   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="150"/> -->
 </p>
 
-### 🎨 Mobile: Flutter, Kotlin, Java, C++ (low-level)
+### 🎨 Data analysis, machine learning and computer vision
 <p> 
-  <img src="https://cdn.prod.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" alt="Flutter" height="150"/>
-  <img src="https://cdn-images-1.medium.com/max/480/1*jA64NTovT-efZ96tcq-X5g.png" alt="Kotlin" height="150"/>
+  <img src="[https://cdn.prod.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FTensorFlow_Hub&ved=0CBYQjRxqFwoTCODy5qn-zZUDFQAAAAAdAAAAABA4&opi=89978449)" alt="Flutter" height="150"/>
+  <img src="[https://cdn-images-1.medium.com/max/480/1*jA64NTovT-efZ96tcq-X5g.png](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FOpenCV&ved=0CBYQjRxqFwoTCLDVocX-zZUDFQAAAAAdAAAAABA4&opi=89978449)" alt="Kotlin" height="150"/>
 </p>
 
 <!--### Proyects
