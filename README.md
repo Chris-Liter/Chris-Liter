@@ -1,9 +1,9 @@
-## I'm Jorge Lituma
+<img width="250" height="331" alt="image" src="https://github.com/user-attachments/assets/189a4c0f-b947-4c6b-8515-d4ed1f1085ae" />## I'm Jorge Lituma
 
 ### Computer Science Engineer
 
 ### Experience
-- Experience with Software Development *Backend and Frontend*, microservices, Cloud Computing.
+- Experience with Software Development *Backend and mobile*, microservices, Cloud Computing.
 - Artificial Intelligence development for some areas, such as Medicine, Education, Research, and much more in *Deep Learning* for Computer Vision, Image Enhancement for research, and training of classification and detection models.
 - The use of C++ or C for low level is for exclusive use for greater speed, used in my experience, both for backend and frontend
 
@@ -18,8 +18,8 @@
 
 ### 🎨 Data analysis, machine learning and computer vision
 <p> 
-  <img src="[https://cdn.prod.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FTensorFlow_Hub&ved=0CBYQjRxqFwoTCODy5qn-zZUDFQAAAAAdAAAAABA4&opi=89978449)" alt="Flutter" height="150"/>
-  <img src="[https://cdn-images-1.medium.com/max/480/1*jA64NTovT-efZ96tcq-X5g.png](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FOpenCV&ved=0CBYQjRxqFwoTCLDVocX-zZUDFQAAAAAdAAAAABA4&opi=89978449)" alt="Kotlin" height="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1280px-Tensorflow_logo.svg.png" alt="TensorFlow" height="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/250px-OpenCV_logo_black.svg.png" alt="OpenCV" height="150"/>
 </p>
 
 <!--### Proyects
