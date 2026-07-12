@@ -29,13 +29,14 @@
 - [Alzheimer's Detection Model with published Article]()-->
 
 
-### I'm passionate about Software development, from Ecuador, with experience in proyects using `Flutter`, `Kotlin/Java`, `.NET MAUI`, and native development, creating native libraries in C++ for pixel manipulation with OpenCV, creating low-level filters with C++, implementing the TensorflowLite C++ API for Object Detection with `MobileNetV3` and more.
+### I'm passionate about Software development, from Ecuador, with experience in proyects using `Flutter`, `Kotlin/Java`, `.NET MAUI`, and native development, creating native libraries in C++ for pixel manipulation with OpenCV, creating low-level filters with C++, implementing the TensorflowLite C++ API for Object Detection with `MobileNetV3. This in Software development, and of Artificial Intelligence, implementing solutions of data analysis with Python/pandas (or Big data with PySpark) and SQL. My Jupyter Notebooks show the evidence of my experience in this area`.
 
 Worked on real-world projects with:
 - `Flutter`, `Kotlin`, `Java`, `.NET MAUI`
 - Native C++ libraries for OpenCV image processing
 - Manual pixel manipulation and convolution filters in C++
 - Integration of `TensorFlow Lite` C++ API for object detection (MobileNetV3, YOLOv11)
+- Python and SQL
 
 
 Software development is my forte and I love programming on my laptop, and when it comes to teamwork, I really enjoy it.
