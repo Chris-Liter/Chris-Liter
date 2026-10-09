@@ -17,6 +17,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/250px-OpenCV_logo_black.svg.png" alt="OpenCV" height="200" style="margin-right: 40px;"/>
 
 </p>
+
 ### 🧠 Backend: Java, .NET, Python
 <p> 
   <img src="https://www.muylinux.com/wp-content/uploads/2022/03/java.png" alt="Java" height="150"/>
