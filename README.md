@@ -4,7 +4,7 @@
 
 ### Experience
  Artificial Intelligence development for some areas, such as Medicine, Education, Research, and much more in *Deep Learning* for Computer Vision, Image Enhancement for research, and training of classification and detection models.
-- Experience such as Machine Learning Engineer, in ETL/ELT process using Python with libraries such as Pandas, PySpark, train supervised and non-supervised models using Keras and PyTorch, for fraud detection in financial sector and anomaly detection in transactions in real time, and deploy models with a set of rules for security of business.
+- Experience in Machine Learning Engineering, developing ETL/ELT pipelines using Python, Pandas, and PySpark. Skilled in training supervised and unsupervised machine learning models with Keras and PyTorch for financial fraud detection and real-time transaction anomaly detection. Experience deploying machine learning models integrated with business rule engines to enhance security and risk management in the financial sector.
 - The use of C++ or C for low level is for exclusive use for greater speed, used in my experience, both for backend
 - Experience with Software Development *Backend and mobile*, microservices, Cloud Computing.
 
