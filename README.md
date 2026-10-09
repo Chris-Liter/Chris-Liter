@@ -12,7 +12,7 @@
 
 ### 🎨 Machine learning/AI and computer vision
 <p> 
-  <img src="[https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmedium.com%2F%40mt21667%2Fgetting-started-with-pytorch-tensors-15fadb38defd&ved=0CBcQjRxqFwoTCNDr2POsrZcDFQAAAAAdAAAAABA5&opi=89978449](https://miro.medium.com/v2/resize:fit:1382/format:webp/0*0wJFsl5faToDsKnS)" alt="TensorFlow" height="170" style="margin-right: 40px;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1382/format:webp/0*0wJFsl5faToDsKnS" alt="TensorFlow" height="170" style="margin-right: 40px;"/>
   <img src="https://www.laescueladelsql.com/wordpress/wp-content/uploads/2018/09/cloudb.png" height="180" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/250px-OpenCV_logo_black.svg.png" alt="OpenCV" height="200" style="margin-right: 40px;"/>
 
