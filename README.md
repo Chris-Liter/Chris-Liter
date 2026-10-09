@@ -3,27 +3,27 @@
 ### Computer Science Engineer
 
 ### Experience
+ Artificial Intelligence development for some areas, such as Medicine, Education, Research, and much more in *Deep Learning* for Computer Vision, Image Enhancement for research, and training of classification and detection models.
+- Experience such as Machine Learning Engineer, in ETL/ELT process using Python with libraries such as Pandas, PySpark, train supervised and non-supervised models using Keras and PyTorch, for fraud detection in financial sector and anomaly detection in transactions in real time, and deploy models with a set of rules for security of business.
+- The use of C++ or C for low level is for exclusive use for greater speed, used in my experience, both for backend
 - Experience with Software Development *Backend and mobile*, microservices, Cloud Computing.
-- Artificial Intelligence development for some areas, such as Medicine, Education, Research, and much more in *Deep Learning* for Computer Vision, Image Enhancement for research, and training of classification and detection models.
-- The use of C++ or C for low level is for exclusive use for greater speed, used in my experience, both for backend and frontend
 
-#### Technologies
-### 🧠 Backend: Java, .NET C#, Python Flask or Django 
-<p> 
-  <img src="https://www.muylinux.com/wp-content/uploads/2022/03/java.png" alt="Java" height="150"/>
-  <img src="https://geekstorming.wordpress.com/wp-content/uploads/2019/12/7e49c-1mfohvi5b1xzkytxiaky7pq.png" alt=".NET" height="150"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png" alt="Python" height="150"/>
-<!--   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="150"/> -->
-</p>
+#### My stack
 
-### 🎨 Data analysis, machine learning and computer vision
+### 🎨 Machine learning/AI and computer vision
 <p> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1280px-Tensorflow_logo.svg.png" alt="TensorFlow" height="170" style="margin-right: 40px;"/>
   <img src="https://www.laescueladelsql.com/wordpress/wp-content/uploads/2018/09/cloudb.png" height="180" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/250px-OpenCV_logo_black.svg.png" alt="OpenCV" height="200" style="margin-right: 40px;"/>
 
 </p>
-
+### 🧠 Backend: Java, .NET, Python
+<p> 
+  <img src="https://www.muylinux.com/wp-content/uploads/2022/03/java.png" alt="Java" height="150"/>
+  <img src="https://geekstorming.wordpress.com/wp-content/uploads/2019/12/7e49c-1mfohvi5b1xzkytxiaky7pq.png" alt=".NET" height="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png" alt="Python" height="150"/>
+<!--   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="150"/> -->
+</p>
 <!--### Proyects
 - [Mobile Development with native libs C++]()
 - [Alzheimer's Detection Model with published Article]()-->
