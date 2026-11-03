@@ -1,67 +1,66 @@
-## I'm Jorge Lituma
+# Jorge Lituma Terán
 
-### Computer Science Engineer
+### Computer Science Engineer · Backend · Computer Vision · AI/ML
 
-### Experience
- Artificial Intelligence development for some areas, such as Medicine, Education, Research, and much more in *Deep Learning* for Computer Vision, Image Enhancement for research, and training of classification and detection models.
-- Experience in Machine Learning Engineering, developing ETL/ELT pipelines using Python, Pandas, and PySpark. Skilled in training supervised and unsupervised machine learning models with Keras and PyTorch for financial fraud detection and real-time transaction anomaly detection. Experience deploying machine learning models integrated with business rule engines to enhance security and risk management in the financial sector.
-- The use of C++ or C for low level is for exclusive use for greater speed, used in my experience, both for backend
-- Experience with Software Development *Backend and mobile*, microservices, Cloud Computing.
+I’m a Computer Science Engineer from Ecuador. I work on backend services, computer vision, and machine learning, with experience applying these areas to research, education, healthcare, and financial data.
 
-#### My stack
+## Areas of work
 
-### 🎨 Machine learning/AI and computer vision
-<p> 
-  <img src="https://miro.medium.com/v2/resize:fit:1382/format:webp/0*0wJFsl5faToDsKnS" alt="TensorFlow" height="170" style="margin-right: 40px;"/>
-  <img src="https://www.laescueladelsql.com/wordpress/wp-content/uploads/2018/09/cloudb.png" height="180" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenCV_logo_black.svg/250px-OpenCV_logo_black.svg.png" alt="OpenCV" height="200" style="margin-right: 40px;"/>
+### Backend
 
-</p>
+- Build APIs and backend services with Python, Java, and .NET.
+- Work with microservices, cloud computing, and SQL.
+- Use C and C++ for low-level tasks where performance is important.
 
-### 🧠 Backend: Java, .NET, Python
-<p> 
-  <img src="https://www.muylinux.com/wp-content/uploads/2022/03/java.png" alt="Java" height="150"/>
-  <img src="https://geekstorming.wordpress.com/wp-content/uploads/2019/12/7e49c-1mfohvi5b1xzkytxiaky7pq.png" alt=".NET" height="150"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png" alt="Python" height="150"/>
-<!--   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="150"/> -->
-</p>
-<!--### Proyects
-- [Mobile Development with native libs C++]()
-- [Alzheimer's Detection Model with published Article]()-->
+### Computer Vision
 
+- Develop image classification and object detection models.
+- Work on image preprocessing and enhancement for research projects.
+- Use OpenCV and deep learning frameworks to prepare, train, and assess vision models.
 
-### I'm passionate about Software development, from Ecuador, with experience in proyects using `Flutter`, `Kotlin/Java`, `.NET MAUI`, and native development, creating native libraries in C++ for pixel manipulation with OpenCV, creating low-level filters with C++, implementing the TensorflowLite C++ API for Object Detection with `MobileNetV3. This in Software development, and of Artificial Intelligence, implementing solutions of data analysis with Python/pandas (or Big data with PySpark) and SQL. My Jupyter Notebooks show the evidence of my experience in this area`.
+### Artificial Intelligence & Machine Learning
 
-Worked on real-world projects with:
-- `Flutter`, `Kotlin`, `Java`, `.NET MAUI`
-- Native C++ libraries for OpenCV image processing
-- Manual pixel manipulation and convolution filters in C++
-- Integration of `TensorFlow Lite` C++ API for object detection (MobileNetV3, YOLOv11)
-- Python and SQL
+- Build ETL/ELT workflows with Python, Pandas, and PySpark.
+- Train supervised and unsupervised models with Keras and PyTorch.
+- Explore fraud classification and transaction anomaly detection.
+- Integrate model predictions with business rules for security and risk management.
 
-More information in my web site: https://my-portafolio-ec.web.app/
+## Technologies
 
-### 📑 Articles and Repositories on Research
-I have experience on research involving Artificial Intelligence, Software Development, Data analysis and Computer Vision.
+**Languages:** Python, Java, C, C++  
+**Backend:** .NET, Flask, APIs, microservices, SQL, cloud computing  
+**AI/ML:** PyTorch, Keras, TensorFlow, scikit-learn, XGBoost, PySpark  
+**Computer vision:** OpenCV, YOLO
 
-* First article, titled "Alzheimer Diagnosis through Advanced Deep Learning Architectures and Interpretative Analysis of Predictions" where find the Development of deep learning models for early Alzheimer detection with a strong focus on prediction explainability and medical decision support.
+My Jupyter notebooks include examples of model training and data analysis.
 
-This article was written in Springer Format, for the future publish on the Book `Proceedings of Tenth International Congress on Information and Communication Technology` from ICICT 2025, London.
+## Research and selected repositories
 
-Repository https://github.com/Chris-Liter/ServicioWeb-para-Modelo-Alzheimer with the Source code, and with process of training model.
-Link of article: https://link.springer.com/chapter/10.1007/978-981-96-6438-2_45.
+### Alzheimer’s diagnosis with deep learning
 
-* Second article, titled "A Pilot Initiative for Democratizing Artificial Intelligence Access in Public Education: Computer Recycling and Deep Learning Networks in Cuenca, Ecuador", very important such as a pilot project aimed at providing AI access through refurbished computers running deep learning models, promoting inclusive technological education in public schools.
+Research on classifying Alzheimer’s disease from brain MRI scans, with a focus on explaining model predictions.
 
-This article was written in Springer Format, for the future publish on the Book `Communication and Applied Technologies` from ICOMTA'25, Chile.
+- [Training and service repository](https://github.com/Chris-Liter/ServicioWeb-para-Modelo-Alzheimer)
+- [Springer chapter](https://link.springer.com/chapter/10.1007/978-981-96-6438-2_45)
+- ICICT 2025 · London, UK
 
-Repository https://github.com/Chris-Liter/API-With-IA with the Source code, that contains the models trained using YOLOv11n implemented in the Flask API.
-Link of article: https://link.springer.com/chapter/10.1007/978-3-032-09911-2_18.
+### AI access in public education
 
-* Thrid article, titled "Robertiño: A Low-Cost Robot for Executing Large Language Models and Convolutional Networks to Enhance Early Education in Underserved Communities", design and implementation of an educational robotic system integrating YOLO-based object detection and LLMs to support learning in marginalized regions.
+A pilot project exploring refurbished computers as a way to make computer vision and locally run AI more accessible in schools. The system used YOLO models and a Flask API.
 
-This article was written in Springer Format, for the future publish on the Book `Communication and Applied Technologies` from ICOMTA'25, Chile.
+- [API and model repository](https://github.com/Chris-Liter/API-With-IA)
+- [Springer chapter](https://link.springer.com/chapter/10.1007/978-3-032-09911-2_18)
+- ICOMTA 2025 · Valdivia, Chile
 
-Repository https://github.com/xDieGGox/Robbyapp, that contains the source code, about the mobile application, created with Kotlin and Java.
-Link of article: https://link.springer.com/chapter/10.1007/978-3-032-09911-2_5.
+### Robertiño: AI for early education
 
+Research on a low-cost educational robot using large language models and convolutional networks to support learning in underserved communities.
+
+- [Springer chapter](https://link.springer.com/chapter/10.1007/978-3-032-09911-2_5)
+- ICOMTA 2025 · Valdivia, Chile
+
+## More about my work
+
+- [Portfolio](https://my-portafolio-ec.web.app/)
+- [GitHub](https://github.com/Chris-Liter)
+- [LinkedIn](https://www.linkedin.com/in/jorge-lituma-teran/)
