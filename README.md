@@ -68,7 +68,7 @@ Research on a low-cost educational robot that combines large language models and
 
 | Area | Tools |
 | --- | --- |
-| Languages | Python, Java, C, C++ |
+| Languages | Python, Java, C#, C++ |
 | Backend | Flask, .NET, APIs, SQL, Docker, microservices |
 | Machine learning | PyTorch, Keras, TensorFlow, scikit-learn, XGBoost, PySpark |
 | Computer vision | OpenCV, Ultralytics/YOLO, CNNs |
